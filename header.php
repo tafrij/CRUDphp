@@ -7,6 +7,6 @@
   <body>
     <div class="jumbotron">
       <center>
-        <h1>Latihan Crud</h1>
+        <h1>Latihan Crud PHP</h1>
       </center>
     </div>
