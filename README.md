@@ -1,2 +1,2 @@
 # CRUDphp
-belajar php dasar bagi pemula
+belajar php dasar bagi pemula yang ingin bisa php
